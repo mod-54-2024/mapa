@@ -1,2 +1,2 @@
 # mapa
-Exemplicar a integração continua
+Exemplificar a integração continua
